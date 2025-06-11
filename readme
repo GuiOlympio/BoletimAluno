@@ -1,0 +1,2 @@
+#Boletim de aluno
+  Esse programa registra o nome e a média de um aluno, verifica sua situação acadêmica e informa se ele foi aprovado ou reprovado com base na nota mínima de 7. Ele usa um dicionário para armazenar os dados do aluno e exibe os resultados de forma organizada.
